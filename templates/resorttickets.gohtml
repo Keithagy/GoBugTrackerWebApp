@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resort Tickets</title>
+</head>
+<body>
+
+<h1>Resort Tickets</h1>
+
+<h3>Resort by: </h3>
+<form method="post" autocomplete="off"> 
+    {{range $index, $criteria := .}}
+    <input type="radio" id={{$criteria}} name="criteria" value={{$criteria}}>
+    <label for="criteria">{{$criteria}}</label><br>
+    {{end}} <br>
+    <input type="submit"> <br>
+</form>
+
+
+<a href="/">Back to Main Menu</a> <br>
+
+</body>
+</html>

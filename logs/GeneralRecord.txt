@@ -1,0 +1,185 @@
+[LOG] GeneralRecord: 2021/03/28 12:51:25 New User (not logged in) accessed admin manage products. Redirected to main menu.
+[LOG] GeneralRecord: 2021/03/28 12:51:25 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:51:39 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:51:44 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:51:47 Demo mode activated, test state populated containing:
+[LOG] GeneralRecord: 2021/03/28 12:51:48 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:51:53 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 12:51:53 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:33 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:37 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:37 Demo mode activated, test state populated containing:
+[LOG] GeneralRecord: 2021/03/28 12:53:39 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:43 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 12:53:43 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:44 Submissions, Tickets, Products and Users Saved.
+[LOG] GeneralRecord: 2021/03/28 12:53:44 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/03/28 12:53:44 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:46 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:51 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 12:53:51 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:53:55 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:55:53 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:56:01 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 12:56:01 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:58:23 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:58:32 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 12:58:36 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 12:58:36 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:01:44 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:01:49 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:01:49 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:08:46 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:08:57 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:08:57 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:09:01 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:10:56 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:11:02 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:11:02 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:18:38 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:18:50 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:18:50 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:19:49 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:19:55 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:19:55 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:22:09 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:23:52 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:24:04 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:24:05 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:24:17 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:24:17 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:29:00 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:29:00 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:29:06 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:29:06 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:30:40 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:30:46 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:30:46 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:36:01 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:36:06 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:36:06 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:36:47 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:37:05 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:37:05 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:42:22 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:42:28 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:42:28 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:43:13 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:43:19 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:43:19 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:44:21 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:45:40 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:45:43 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:45:47 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:45:47 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:45:51 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:46:31 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:46:35 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:46:35 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:47:45 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:47:47 New User (not logged in) accessed sign up page.
+[LOG] GeneralRecord: 2021/03/28 13:47:48 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:47:53 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:47:53 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:49:57 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:50:38 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:55:21 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:55:27 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:55:27 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:58:27 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 13:58:33 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 13:58:33 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:25:15 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:25:23 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 14:25:23 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:28:59 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:29:22 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 14:29:22 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:30:38 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:30:46 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 14:30:47 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:36:28 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:36:37 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 14:36:37 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:39:29 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:39:34 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 14:39:34 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 14:48:43 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:40:45 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:40:51 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 19:40:51 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:41:06 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:43:01 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:43:19 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:45:46 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:45:48 Submissions, Tickets, Products and Users Saved.
+[LOG] GeneralRecord: 2021/03/28 19:45:48 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/03/28 19:45:48 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:50:01 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:50:09 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 19:50:09 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:50:13 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:51:40 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:51:45 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 19:51:45 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:52:51 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:53:13 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:53:19 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 19:53:19 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:53:44 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:53:56 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 19:56:18 Submissions, Tickets, Products and Users Saved.
+[LOG] GeneralRecord: 2021/03/28 19:56:18 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/03/28 19:56:18 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 20:25:02 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 20:25:03 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 20:25:04 Demo mode activated, test state populated containing:
+[LOG] GeneralRecord: 2021/03/28 20:25:05 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 20:25:10 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/03/28 20:25:10 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 20:25:30 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 20:25:38 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 20:25:51 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:33:35 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:33:59 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:34:03 Demo mode activated, test state populated containing:
+[LOG] GeneralRecord: 2021/03/28 21:34:04 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:34:09 MyCookie: New session created for username admin.
+[LOG] GeneralRecord: 2021/03/28 21:34:09 Username admin (Admin: true) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:34:15 Username admin (Admin: true) accessed admin edit user.
+[LOG] GeneralRecord: 2021/03/28 21:34:52 Username admin (Admin: true) accessed admin edit user.
+[LOG] GeneralRecord: 2021/03/28 21:34:52 Username admin (Admin: true) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:36:50 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:36:53 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:36:53 Demo mode activated, test state populated containing:
+[LOG] GeneralRecord: 2021/03/28 21:36:55 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:36:58 MyCookie: New session created for username admin.
+[LOG] GeneralRecord: 2021/03/28 21:36:58 Username admin (Admin: true) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:38:13 Username admin (Admin: true) accessed admin edit user.
+[LOG] GeneralRecord: 2021/03/28 21:38:30 Username admin (Admin: true) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:38:34 Username admin (Admin: true) accessed admin manage products.
+[LOG] GeneralRecord: 2021/03/28 21:38:37 Username admin (Admin: true) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:38:38 Username admin (Admin: true) accessed admin manage products.
+[LOG] GeneralRecord: 2021/03/28 21:38:46 Username admin (Admin: true) accessed admin manage products.
+[LOG] GeneralRecord: 2021/03/28 21:39:35 Username admin (Admin: true) accessed admin manage products.
+[LOG] GeneralRecord: 2021/03/28 21:43:08 Username admin (Admin: true) accessed main menu.
+[LOG] GeneralRecord: 2021/03/28 21:43:10 Submissions, Tickets, Products and Users Saved.
+[LOG] GeneralRecord: 2021/03/28 21:43:10 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/03/28 21:43:10 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/04/02 12:54:20 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/04/02 12:54:20 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/04/02 12:54:30 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/04/02 13:02:19 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/04/02 13:02:19 Username user1 (Admin: false) accessed main menu.
+[LOG] GeneralRecord: 2021/04/02 13:02:22 Submissions, Tickets, Products and Users Saved.
+[LOG] GeneralRecord: 2021/04/02 13:02:22 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/04/02 13:02:22 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/04/02 13:07:46 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/04/02 13:07:46 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/04/02 13:20:52 New User (not logged in) accessed sign up page.
+[LOG] GeneralRecord: 2021/04/22 17:13:55 MyCookie: New session created.
+[LOG] GeneralRecord: 2021/04/22 17:13:55 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/04/22 17:14:05 Demo mode activated, test state populated containing:
+[LOG] GeneralRecord: 2021/04/22 17:14:06 New User (not logged in) accessed main menu.
+[LOG] GeneralRecord: 2021/04/22 17:14:13 MyCookie: New session created for username user1.
+[LOG] GeneralRecord: 2021/04/22 17:14:13 Username user1 (Admin: false) accessed main menu.

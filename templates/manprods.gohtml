@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manage Products</title>
+</head>
+<body>
+
+<h1>Manage Products</h1>
+
+<h3>Existing products: </h3>
+{{range $index, $product := .}}
+{{$product}} <br>
+{{end}}
+
+<h3>Select from Options Below: </h3>
+<a href="/addproducts">Add Products</a> <br>
+<a href="/editproducts">Edit Products</a> <br>
+<a href="/deleteproducts">Delete Products</a> <br>
+<br><a href="/">Main Menu</a> 
+
+
+</body>
+</html>

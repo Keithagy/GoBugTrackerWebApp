@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete Products</title>
+</head>
+<body>
+
+<h1>Select From Existing Products:</h1>
+<form method="post" autocomplete="off">
+{{range $index, $product := .}}
+<input type="radio" id={{$index}} name="product" value={{$index}}>
+<label for="product">{{$product}}</label><br>
+{{end}}
+
+<input type="submit">
+</form>
+
+<a href="/manprods">Back to Product Management Menu</a> <br>
+
+</body>
+</html>

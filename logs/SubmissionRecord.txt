@@ -1,0 +1,23 @@
+[LOG] SubmissionRecord: 2021/03/28 12:51:47 Demomode, 4 tickets loaded into submissions priority queue.
+[LOG] SubmissionRecord: 2021/03/28 12:53:37 Demomode, 4 tickets loaded into submissions priority queue.
+[LOG] SubmissionRecord: 2021/03/28 13:19:10 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 13:21:22 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 13:24:44 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 13:43:31 Ticket ID 0 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 13:46:50 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 13:47:22 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 13:49:48 Ticket ID 9 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 13:51:58 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 14:26:05 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 14:27:31 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 14:33:27 User user1 attempted ticket submission with one or more invalid inputs.
+[LOG] SubmissionRecord: 2021/03/28 14:48:08 Ticket ID 8 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 19:41:03 Ticket ID 8 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 19:43:17 Ticket ID 9 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 19:52:39 Ticket ID 8 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 19:53:39 Ticket ID 8 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 20:25:04 Demomode, 4 tickets loaded into submissions priority queue.
+[LOG] SubmissionRecord: 2021/03/28 20:25:28 Ticket ID 8 submitted by user user1.
+[LOG] SubmissionRecord: 2021/03/28 21:34:03 Demomode, 4 tickets loaded into submissions priority queue.
+[LOG] SubmissionRecord: 2021/03/28 21:36:53 Demomode, 4 tickets loaded into submissions priority queue.
+[LOG] SubmissionRecord: 2021/04/22 17:14:05 Demomode, 4 tickets loaded into submissions priority queue.

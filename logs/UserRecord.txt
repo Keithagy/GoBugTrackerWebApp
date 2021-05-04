@@ -1,0 +1,91 @@
+[LOG] UserRecord: 2021/03/28 12:51:47 Demomode, 3 users added to hash table.
+[LOG] UserRecord: 2021/03/28 12:51:47 Username: admin
+[LOG] UserRecord: 2021/03/28 12:51:47 Admin account
+[LOG] UserRecord: 2021/03/28 12:51:47 Username: user1
+[LOG] UserRecord: 2021/03/28 12:51:47 Non-Admin account
+[LOG] UserRecord: 2021/03/28 12:51:47 Username: user2
+[LOG] UserRecord: 2021/03/28 12:51:47 Non-Admin account
+[LOG] UserRecord: 2021/03/28 12:51:53 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 12:53:37 Demomode, 3 users added to hash table.
+[LOG] UserRecord: 2021/03/28 12:53:37 Username: admin
+[LOG] UserRecord: 2021/03/28 12:53:37 Admin account
+[LOG] UserRecord: 2021/03/28 12:53:38 Username: user1
+[LOG] UserRecord: 2021/03/28 12:53:38 Non-Admin account
+[LOG] UserRecord: 2021/03/28 12:53:38 Username: user2
+[LOG] UserRecord: 2021/03/28 12:53:38 Non-Admin account
+[LOG] UserRecord: 2021/03/28 12:53:43 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 12:53:44 User user1 has logged out. Session cookie has been deleted.
+[LOG] UserRecord: 2021/03/28 12:53:51 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 12:56:01 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 12:58:36 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:01:49 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:08:57 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:11:02 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:18:43 Sign-in attempt using username user1 (wrong password).
+[LOG] UserRecord: 2021/03/28 13:18:50 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:19:55 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:24:17 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:29:06 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:30:46 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:36:06 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:37:05 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:42:28 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:43:19 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:45:47 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:46:35 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:47:53 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:55:27 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 13:58:33 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 14:25:23 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 14:29:22 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 14:30:47 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 14:36:37 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 14:39:34 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 19:40:51 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 19:45:48 User user1 has logged out. Session cookie has been deleted.
+[LOG] UserRecord: 2021/03/28 19:50:09 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 19:51:45 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 19:53:19 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 19:56:18 User user1 has logged out. Session cookie has been deleted.
+[LOG] UserRecord: 2021/03/28 20:24:58 Sign-in attempt using username user1 (invalid username).
+[LOG] UserRecord: 2021/03/28 20:25:04 Demomode, 3 users added to hash table.
+[LOG] UserRecord: 2021/03/28 20:25:04 Username: admin
+[LOG] UserRecord: 2021/03/28 20:25:04 Admin account
+[LOG] UserRecord: 2021/03/28 20:25:04 Username: user1
+[LOG] UserRecord: 2021/03/28 20:25:04 Non-Admin account
+[LOG] UserRecord: 2021/03/28 20:25:04 Username: user2
+[LOG] UserRecord: 2021/03/28 20:25:04 Non-Admin account
+[LOG] UserRecord: 2021/03/28 20:25:10 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/03/28 21:33:50 Sign-in attempt using username admin (invalid username).
+[LOG] UserRecord: 2021/03/28 21:33:56 Sign-in attempt using username admin (invalid username).
+[LOG] UserRecord: 2021/03/28 21:34:03 Demomode, 3 users added to hash table.
+[LOG] UserRecord: 2021/03/28 21:34:03 Username: admin
+[LOG] UserRecord: 2021/03/28 21:34:03 Admin account
+[LOG] UserRecord: 2021/03/28 21:34:03 Username: user1
+[LOG] UserRecord: 2021/03/28 21:34:03 Non-Admin account
+[LOG] UserRecord: 2021/03/28 21:34:03 Username: user2
+[LOG] UserRecord: 2021/03/28 21:34:03 Non-Admin account
+[LOG] UserRecord: 2021/03/28 21:34:09 Successful sign-in using username admin (Admin: true).
+[LOG] UserRecord: 2021/03/28 21:34:52 Hash table updated with edited account.
+[LOG] UserRecord: 2021/03/28 21:36:53 Demomode, 3 users added to hash table.
+[LOG] UserRecord: 2021/03/28 21:36:53 Username: admin
+[LOG] UserRecord: 2021/03/28 21:36:53 Admin account
+[LOG] UserRecord: 2021/03/28 21:36:53 Username: user1
+[LOG] UserRecord: 2021/03/28 21:36:53 Non-Admin account
+[LOG] UserRecord: 2021/03/28 21:36:53 Username: user2
+[LOG] UserRecord: 2021/03/28 21:36:53 Non-Admin account
+[LOG] UserRecord: 2021/03/28 21:36:58 Successful sign-in using username admin (Admin: true).
+[LOG] UserRecord: 2021/03/28 21:43:10 User admin has logged out. Session cookie has been deleted.
+[LOG] UserRecord: 2021/04/02 12:54:36 Sign-in attempt using username  (invalid username).
+[LOG] UserRecord: 2021/04/02 12:54:44 Sign-in attempt using username  (invalid username).
+[LOG] UserRecord: 2021/04/02 12:59:32 Sign-in attempt using username  (invalid username).
+[LOG] UserRecord: 2021/04/02 13:02:19 Successful sign-in using username user1 (Admin: false).
+[LOG] UserRecord: 2021/04/02 13:02:22 User user1 has logged out. Session cookie has been deleted.
+[LOG] UserRecord: 2021/04/22 17:14:05 Demomode, 3 users added to hash table.
+[LOG] UserRecord: 2021/04/22 17:14:05 Username: admin
+[LOG] UserRecord: 2021/04/22 17:14:05 Admin account
+[LOG] UserRecord: 2021/04/22 17:14:05 Username: user1
+[LOG] UserRecord: 2021/04/22 17:14:05 Non-Admin account
+[LOG] UserRecord: 2021/04/22 17:14:05 Username: user2
+[LOG] UserRecord: 2021/04/22 17:14:05 Non-Admin account
+[LOG] UserRecord: 2021/04/22 17:14:13 Successful sign-in using username user1 (Admin: false).

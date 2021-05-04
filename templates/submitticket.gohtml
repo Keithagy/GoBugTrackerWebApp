@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Submit Ticket</title>
+</head>
+<body>
+
+<h1>Create New Ticket</h1>
+<h3>Enter the following details</h3>
+<form method="post" autocomplete="off"> 
+    <label for ="title">Ticket Title (Cannot be empty):</label>
+    <input type="text" name="title" placeholder="title"><br>
+    <label for ="desc">Description (Cannot be empty):</label>
+    <input type="text" name="desc" placeholder="desc"><br>
+    <br>
+    Creator: {{.Loggedinuser}} <br>
+    Assignee: <br>
+    {{range $index, $user := .Users}}
+    <input type="radio" id={{$user}} name="assignee" value={{$user}}>
+    {{range $index, $line := $user}}
+    {{$line}}<br>
+    {{end}}
+    {{end}}
+    <br>
+    <label for ="esthours">Estimated Hours to Complete (Positive integers only):</label>
+    <input type="text" name="esthours" placeholder="esthours"><br>
+    Priority: <br>
+    {{range $index, $priority := .Priorities}}
+    <input type="radio" id={{$index}} name="priority" value={{$index}}>
+    <label for="priority">{{$priority}}</label><br>
+    {{end}}
+    Start date: {{.Startdate}} <br>
+    Allotted Duration to Complete (sets due date, must be posititve integers): <br>
+    <label for ="dueyears">Years:</label>
+    <input type="text" name="dueyears" placeholder="dueyears"><br>
+    <label for ="duemonths">Months:</label>
+    <input type="text" name="duemonths" placeholder="duemonths"><br>
+    <label for ="duedays">Days:</label>
+    <input type="text" name="duedays" placeholder="duedays"><br>
+    <br>
+    Product: <br>
+    {{range $index, $product := .Products}}
+    <input type="radio" id={{$index}} name="product" value={{$index}}>
+    <label for="product">{{$product}}</label><br>
+    {{end}}
+    Status: <br>
+    {{range $index, $status := .Statuses}}
+    <input type="radio" id={{$index}} name="status" value={{$index}}>
+    <label for="status">{{$status}}</label><br>
+    {{end}}
+    Category: <br>
+    {{range $index, $category := .Categories}}
+    <input type="radio" id={{$index}} name="category" value={{$index}}>
+    <label for="category">{{$category}}</label><br>
+    {{end}}
+    Ticket ID: {{.TicketID}} <br>
+    <input type="submit">
+</form>
+
+</body>
+</html>

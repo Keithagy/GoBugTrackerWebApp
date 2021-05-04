@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Account</title>
+</head>
+<body>
+
+<h1>Existing users:</h1>
+<form method="post" autocomplete="off">
+{{range $index, $user := .}}
+<input type="radio" id={{$index}} name="account" value={{$index}}>
+{{range $index, $line := $user}}
+{{$line}}<br>
+{{end}}
+{{end}}
+
+<h1>Edit account information</h1>
+<h3>Enter new details for the selected account:</h3>
+
+    <label for ="username">Username (Must be unique username, leave empty for no change):</label>
+    <input type="text" name="username" placeholder="username"><br>
+    <label for ="password">Password (Leave empty for no change):</label>
+    <input type="text" name="password" placeholder="password"><br>
+    <input type="submit">
+</form>
+
+<a href="/">Back</a> to main menu
+
+</body>
+</html>

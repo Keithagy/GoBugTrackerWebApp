@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View {{.Owner}} {{.Object}}</title>
+</head>
+<body>
+
+<h1>View {{.Owner}} {{.Object}}</h1>
+
+{{range $index, $ticket := .Tickets}}
+{{range $index, $line := $ticket}} 
+{{$line}} <br>
+{{end}}
+{{end}}
+
+<a href="/">Main Menu</a> <br>
+
+</body>
+</html>

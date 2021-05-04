@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manage Submissions</title>
+</head>
+<body>
+
+<h1>Manage Submissions</h1>
+
+{{range $index, $submission := .}}
+{{if eq $index 0}}
+<h3>First Item in Queue (to approve or reject): </h3>
+{{range $iindex, $line := $submission}} 
+{{$line}} <br>
+{{end}}
+<form method="post" autocomplete="off">
+<input type="radio" id="Approve" name="apprej" value="Approve">
+<label for="Approve">Approve</label><br>
+<input type="radio" id="Reject" name="apprej" value="Reject">
+<label for="Reject">Reject</label><br>
+Select an Action and click Submit.<br>
+<input type="submit">
+</form>
+<h3>Subsequent items: </h3>
+{{else}}
+{{range $iindex, $line := $submission}} 
+{{$line}} <br>
+{{end}}
+{{end}}
+{{end}}
+
+<a href="/">Main Menu</a> <br>
+
+</body>
+</html>

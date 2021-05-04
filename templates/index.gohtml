@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Go Track Bugs!</title>
+</head>
+<body>
+<h1>Bug Tracker Written in Go</h1>
+<h2>Login Screen</h2>
+
+{{if .Name}}
+<h3>Welcome User {{.Name}}</h3>
+{{if .Admin}}
+<h3>Admin</h3>
+<a href="/adduser">Add Users</a> <br>
+<a href="/edituser">Edit Users</a> <br>
+<a href="/deleteuser">Delete Users</a> <br>
+<a href="/manprods">Manage Products</a> <br>
+<a href="/managesubmissions"> Manage Submissions</a> <br>
+{{else}}
+<h3>Non-Admin</h3>
+<a href="/submitticket"> Submit New Ticket for Approval</a> <br>
+<a href="/viewmytickets"> View My Tickets</a> <br>
+<a href="/deletemytickets"> Delete My Tickets</a> <br>
+<a href="/viewmyassignments"> View My Assignments</a> <br>
+<a href="/markmyassignments"> Mark My Assignments Complete (Deletes Ticket from Log)</a> <br>
+<a href="/viewalltickets"> View All Tickets</a> <br>
+<a href="/ressorttickets"> Re-sort tickets(view only)</a> <br>
+<a href="/viewsubmissions"> View Submissions</a> <br>
+{{end}}
+<a href="/logout">Save and Log Out</a> <br>
+{{else}}
+<h3>You are currently either not logged in or need to sign up for an account.</h3>
+<a href="/signup">Sign Up</a> <br>
+<a href="/login">Log in</a> <br>
+<a href="/viewusers">Username Registry</a> <br>
+<a href="/demo">Demo mode (wipes all non-demo data)</a> <br>
+{{end}}
+
+</body>
+</html>

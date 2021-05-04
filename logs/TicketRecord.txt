@@ -1,0 +1,6 @@
+[LOG] TicketRecord: 2021/03/28 12:51:47 Demomode, 4 tickets loaded into ticket log.
+[LOG] TicketRecord: 2021/03/28 12:53:37 Demomode, 4 tickets loaded into ticket log.
+[LOG] TicketRecord: 2021/03/28 20:25:04 Demomode, 4 tickets loaded into ticket log.
+[LOG] TicketRecord: 2021/03/28 21:34:03 Demomode, 4 tickets loaded into ticket log.
+[LOG] TicketRecord: 2021/03/28 21:36:53 Demomode, 4 tickets loaded into ticket log.
+[LOG] TicketRecord: 2021/04/22 17:14:05 Demomode, 4 tickets loaded into ticket log.

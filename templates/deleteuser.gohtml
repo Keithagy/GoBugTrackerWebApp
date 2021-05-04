@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete Account</title>
+</head>
+<body>
+
+<h1>Select existing user to delete:</h1>
+<form method="post" autocomplete="off">
+{{range $index, $user := .}}
+<input type="radio" id={{$index}} name="account" value={{$index}}>
+{{range $index, $line := $user}}
+{{$line}}<br>
+{{end}}
+{{end}}
+<input type="submit">
+</form>
+
+<a href="/">Back</a> to main menu
+
+</body>
+</html>

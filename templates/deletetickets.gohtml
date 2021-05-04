@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Remove {{.Owner}} {{.Object}}</title>
+</head>
+<body>
+
+<h1> Remove {{.Owner}} {{.Object}}</h1>
+
+{{range $index, $ticket := .Tickets}}
+{{range $index, $line := $ticket}} 
+{{$line}} <br>
+{{end}}
+{{end}}
+
+<form method="post" autocomplete="off"> 
+    <label for ="deleteID">Enter ID of ticket to be deleted (Only integer values listed above):</label>
+    <input type="text" name="deleteID" placeholder="deleteID"><br>
+    <input type="submit">
+</form>
+
+<a href="/">Main Menu</a> <br>
+
+</body>
+</html>

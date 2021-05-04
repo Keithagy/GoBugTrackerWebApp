@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Products</title>
+</head>
+<body>
+<h1>Add Products</h1>
+<h3>Existing products: </h3>
+{{range $index, $product := .}}
+{{$product}} <br>
+{{end}}
+
+<form method="post" autocomplete="off">
+<h3>Enter Product Name</h3>
+    <label for ="productname">Product Name (Must be unique):</label>
+    <input type="text" name="productname" placeholder="Product Name"><br>
+    <input type="submit">
+</form>
+
+<a href="/addproducts">Add Products</a> <br>
+<a href="/editproducts">Edit Products</a> <br>
+<a href="/deleteproducts">Delete Products</a> <br>
+<a href="/manprods">Back to Product Management Menu</a> <br>
+
+</body>
+</html>
